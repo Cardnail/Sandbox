@@ -1,0 +1,15 @@
+* {
+    color: blue;
+}
+
+.customClass {
+    color: #1e7e34;
+}
+
+#customId {
+    color: #6f42c1;
+}
+
+.block:first-child {
+    background-color: black;
+}
